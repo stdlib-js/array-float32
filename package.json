@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/array-float32",
+  "version": "0.0.0",
+  "description": "Float32Array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/array-float32.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "data",
+    "structure",
+    "array",
+    "typed",
+    "typed array",
+    "typed-array",
+    "float32array",
+    "float32",
+    "float",
+    "single",
+    "single-precision",
+    "ieee754"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
