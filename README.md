@@ -762,7 +762,7 @@ When a `fromIndex` is negative, the starting index is resolved relative to the l
 ```javascript
 var arr = new Float32Array( [ 1.0, 2.0, 3.0 ] );
 
-bool = arr.includes( 1.0, -2 );
+var bool = arr.includes( 1.0, -2 );
 // returns false
 ```
 
