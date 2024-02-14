@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
+import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@v0.2.0-deno/mod.js';
 ```
 
 #### Float32Array()
@@ -1422,7 +1422,7 @@ var bool = it.next().done;
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import ctor from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
+import ctor from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@v0.2.0-deno/mod.js';
 
 var arr;
 var i;
